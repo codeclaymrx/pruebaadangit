@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Este es el nuevo titulo - del negocio</title>
+    <title>Esta es la seccion de productos</title>
 </head>
 <body>
-    
+    <h1>Producto 1</h1>
 </body>
 </html>
